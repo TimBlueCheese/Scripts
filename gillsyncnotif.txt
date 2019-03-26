@@ -1,0 +1,4 @@
+1. Open File Explorer (Folder icon on taskbar)
+2. Go to the Startup folder (I pinned it to the pane on the left)
+3. Delete the file GillSync.exe
+4. Remember to log out next time! :)
